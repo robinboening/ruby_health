@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{health checks and readiness probes for rack based applications.}
   spec.description   = %q{health checks and readiness probes for rack based applications.}
   spec.homepage      = "https://github.com/robinboening/ruby_health"
-  spec.license       = "MIT"
+  spec.license       = "CC BY-SA 4.0"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["homepage_uri"] = spec.homepage
